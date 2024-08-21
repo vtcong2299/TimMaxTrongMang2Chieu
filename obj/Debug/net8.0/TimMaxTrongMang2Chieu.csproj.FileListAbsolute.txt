@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\bin\Debug\net8.0\TimMaxTrongMang2Chieu.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\bin\Debug\net8.0\TimMaxTrongMang2Chieu.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\bin\Debug\net8.0\TimMaxTrongMang2Chieu.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\bin\Debug\net8.0\TimMaxTrongMang2Chieu.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\bin\Debug\net8.0\TimMaxTrongMang2Chieu.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\obj\Debug\net8.0\TimMaxTrongMang2Chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\obj\Debug\net8.0\TimMaxTrongMang2Chieu.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\obj\Debug\net8.0\TimMaxTrongMang2Chieu.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\obj\Debug\net8.0\TimMaxTrongMang2Chieu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\obj\Debug\net8.0\TimMaxTrongMang2Chieu.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\obj\Debug\net8.0\refint\TimMaxTrongMang2Chieu.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\obj\Debug\net8.0\TimMaxTrongMang2Chieu.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\obj\Debug\net8.0\TimMaxTrongMang2Chieu.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimMaxTrongMang2Chieu\obj\Debug\net8.0\ref\TimMaxTrongMang2Chieu.dll
